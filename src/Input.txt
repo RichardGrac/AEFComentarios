@@ -1,0 +1,9 @@
+/* Hola 
+mundo*/
+//comentario
+//uno más
+/**//*hola*/
+//otro mas
+//
+Este es un error
+//aqui no llega
